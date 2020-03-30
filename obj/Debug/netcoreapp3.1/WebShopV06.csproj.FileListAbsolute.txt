@@ -1,0 +1,11 @@
+C:\Code\WebShopV06\bin\Debug\netcoreapp3.1\WebShopV06.exe
+C:\Code\WebShopV06\bin\Debug\netcoreapp3.1\WebShopV06.deps.json
+C:\Code\WebShopV06\bin\Debug\netcoreapp3.1\WebShopV06.runtimeconfig.json
+C:\Code\WebShopV06\bin\Debug\netcoreapp3.1\WebShopV06.runtimeconfig.dev.json
+C:\Code\WebShopV06\bin\Debug\netcoreapp3.1\WebShopV06.dll
+C:\Code\WebShopV06\bin\Debug\netcoreapp3.1\WebShopV06.pdb
+C:\Code\WebShopV06\obj\Debug\netcoreapp3.1\WebShopV06.csprojAssemblyReference.cache
+C:\Code\WebShopV06\obj\Debug\netcoreapp3.1\WebShopV06.AssemblyInfoInputs.cache
+C:\Code\WebShopV06\obj\Debug\netcoreapp3.1\WebShopV06.AssemblyInfo.cs
+C:\Code\WebShopV06\obj\Debug\netcoreapp3.1\WebShopV06.dll
+C:\Code\WebShopV06\obj\Debug\netcoreapp3.1\WebShopV06.pdb
